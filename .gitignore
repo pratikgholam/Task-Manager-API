@@ -23,6 +23,33 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working directories
+.vs/
+
+# Backup & cache
+*.db
+*.v2
+*.v12
+*.v17
+*.cache
+*.log
+
+# Configurations
+applicationhost.config
+
+# Other IDE artifacts
+*.dbmdl
+*.bak
+*.backup
+*.json.user
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
